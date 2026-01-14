@@ -21,19 +21,18 @@ piiscan detects common types of sensitive personal data in plain text, including
 # Where Does It Scan?
 piiscan supports a wide range of storage systems.
 
-Databases
+Databases  
 - Relational databases: MySQL, MariaDB, PostgreSQL, SQL Server, SQLite
 - NoSQL databases: MongoDB, Redis
 
-Search Engines
+Search Engines  
 - Elasticsearch
 - OpenSearch
 
-File and Other Sources
+File and Other Sources  
 - Amazon S3
 - Local or shared file systems
-- Logs, CSV files, Excel files, and unstructured files
-
+- Logs, CSV files, Excel files, and unstructured files  
 (*) Support for additional storage types will be continuously developed.
 For new storage support requests, please contact: africa@wikisecurity.net
 
