@@ -1,4 +1,3 @@
-![WIKI Security Logo](wiki_logo-1-140x87.png)
 # piiscan 
 piiscan is a free security tool developed by WIKI Security to detect plain-text personal data in files, databases, and storage systems. It supports Rwanda PDPL compliance(Articles 53, 57, 62, 63, and so on) by detecting unencrypted sensitive data.
 piiscan is a free security tool developed by WIKI Security to detect plain-text personal data in files, databases, and storage systems. It supports Rwanda PDPL compliance by detecting unencrypted sensitive data.
@@ -47,6 +46,7 @@ https://www.youtube.com/@wikisecurityco.ltd.8891/videos
 
 # Current Limitations
 piiscan is designed only for Rwanda, due to country-specific personal data formats.
-
 To apply this tool to other countries, customization is required.
 Please contact africa@wikisecurity.net for support.
+
+![WIKI Security Logo](wiki_logo-1-140x87.png)
