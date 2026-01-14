@@ -32,7 +32,8 @@ Search Engines
 File and Other Sources  
 - Amazon S3
 - Local or shared file systems
-- Logs, CSV files, Excel files, and unstructured files  
+- Logs, CSV files, Excel files, and unstructured files
+
 (*) Support for additional storage types will be continuously developed.
 For new storage support requests, please contact: africa@wikisecurity.net
 
