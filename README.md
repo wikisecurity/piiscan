@@ -17,7 +17,7 @@ Because personal data formats differ by country, partial customization is requir
 
 # What Data Does It Find?
 
-piiscan detects common types of sensitive information, including:
+piiscan detects common types of sensitive personal data in plain text, including:
 - National ID, passport, and driver’s license numbers
 - Credit card and bank account numbers
 - Email addresses, phone numbers, and postal addresses
