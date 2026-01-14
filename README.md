@@ -37,7 +37,9 @@ File and Other Sources
 (*) Support for additional storage types will be continuously developed.
 For new storage support requests, please contact: africa@wikisecurity.net
 
+
 # How to Use It
+First, extract the downloaded archive. Then, run the file.
 - Windows: run piiscan-win.exe
 - Linux: run piiscan-linux from the shell
 
