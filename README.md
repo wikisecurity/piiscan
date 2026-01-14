@@ -1,6 +1,6 @@
 # piiscan 
 piiscan is a free security tool developed by WIKI Security to detect plain-text personal data in files, databases, and storage systems. It supports Rwanda PDPL compliance(Articles 53, 57, 62, 63, and so on) by detecting unencrypted sensitive data.
-piiscan is a free security tool developed by WIKI Security to detect plain-text personal data in files, databases, and storage systems. It supports Rwanda PDPL compliance by detecting unencrypted sensitive data.
+piiscan is a free security tool developed by WIKI Security to detect plain-text personal data in files, databases, and storage systems. It supports Rwanda PDPL compliance by detecting unencrypted sensitive data. <br><br>
 
 
 # What is piiscan?
@@ -9,7 +9,7 @@ Anyone can use it for free.
 The tool is designed to detect personal data stored in plain text and to help organizations check compliance in advance with data protection requirements.
 piiscan supports compliance with the Rwanda Personal Data Protection Law (PDPL), including Articles 53, 57, 62, and 63.
 This tool is developed specifically for Rwanda.
-Because personal data formats differ by country, partial customization is required for use outside Rwanda.
+Because personal data formats differ by country, partial customization is required for use outside Rwanda.  <br><br>
 
 
 # What Data Does It Find?
@@ -17,7 +17,7 @@ piiscan detects common types of sensitive personal data in plain text, including
 - National ID, passport, and driver’s license numbers
 - Credit card and bank account numbers
 - Email addresses, phone numbers, and postal addresses
-- OAuth tokens, API keys, and access credentials
+- OAuth tokens, API keys, and access credentials  <br><br>
 
 
 # Where Does It Scan?
@@ -37,7 +37,7 @@ File and Other Sources
 - Logs, CSV files, Excel files, and unstructured files
 
 (*) Support for additional storage types will be continuously developed.
-For new storage support requests, please contact: africa@wikisecurity.net
+For new storage support requests, please contact: africa@wikisecurity.net  <br><br>
 
 
 
@@ -47,7 +47,7 @@ First, extract the downloaded archive. Then, run the file.
 - Linux: run piiscan-linux from the shell
 
 (*) Execution examples and tutorials are available on YouTube:
-https://www.youtube.com/@wikisecurityco.ltd.8891/videos
+https://www.youtube.com/@wikisecurityco.ltd.8891/videos  <br><br>
 
 
 # Current Limitations
