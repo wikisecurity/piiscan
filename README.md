@@ -43,8 +43,8 @@ For new storage support requests, please contact: africa@wikisecurity.net  <br><
 
 # How to Use It
 First, extract the downloaded archive. Then, run the file.
-- Windows: run piiscan-win.exe
-- Linux: run piiscan-linux from the shell
+- Windows: run piiscan.exe
+- Linux: run piiscan from the shell
 
 (*) Execution examples and tutorials are available on YouTube:
 https://www.youtube.com/@wikisecurityco.ltd.8891/videos  <br><br>
