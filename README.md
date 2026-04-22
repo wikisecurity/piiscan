@@ -24,7 +24,7 @@ piiscan detects common types of sensitive personal data in plain text, including
 piiscan supports a wide range of storage systems.
 
 Databases  
-- Relational databases: MySQL, MariaDB, PostgreSQL, SQL Server, SQLite
+- Relational databases: Oracle, MySQL, MariaDB, PostgreSQL, SQL Server, SQLite
 - NoSQL databases: MongoDB, Redis
 
 Search Engines  
